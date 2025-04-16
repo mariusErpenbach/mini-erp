@@ -1,0 +1,15 @@
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.AssemblyInfoInputs.cache
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.AssemblyInfo.cs
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.csproj.CoreCompileInputs.cache
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.sourcelink.json
+/home/dci/Desktop/Github/mini-erp/bin/Debug/net9.0/mini-erp
+/home/dci/Desktop/Github/mini-erp/bin/Debug/net9.0/mini-erp.deps.json
+/home/dci/Desktop/Github/mini-erp/bin/Debug/net9.0/mini-erp.runtimeconfig.json
+/home/dci/Desktop/Github/mini-erp/bin/Debug/net9.0/mini-erp.dll
+/home/dci/Desktop/Github/mini-erp/bin/Debug/net9.0/mini-erp.pdb
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.dll
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/refint/mini-erp.dll
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.pdb
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/mini-erp.genruntimeconfig.cache
+/home/dci/Desktop/Github/mini-erp/obj/Debug/net9.0/ref/mini-erp.dll
